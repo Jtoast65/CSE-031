@@ -1,0 +1,23 @@
+tpsAnswers
+TPS 1:
+Wilson 
+Joey Sandoval
+Henry Valladares 
+Alexis Cruz
+
+TPS 2
+a. yes you can open more than one terminal
+b. to be able to increase your productivity
+2. the file command is ls
+3. the command in cd Desktop
+4. you do this by mkdir CSE31
+
+TPS 3
+3. gcc main.c -o main.out
+4. If the program dosent show any errors
+5. The -c flag compiles source files while linking
+6. The -g flag allows us to use the debugger
+7. By using mv
+8. The program compiled 
+9. You use ./main.out
+

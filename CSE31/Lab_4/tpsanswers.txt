@@ -1,0 +1,19 @@
+Group: Alexis, Wilson, Joey
+TPS 1:
+1. It should print out 2.
+2. Expect to print 42 43 41 
+4. It printed out 2. I was surprised by the results
+ because I expected it to print out in hex format.
+5. 
+a. 2 arrays were allocated.
+b. They are both pointing to the same location.
+
+6. The difference is that the last int holds 44 43 42 41.
+10. C accesses the biggest amount of memory first and then accesses the rest of the memory.
+
+TPS 2:
+1. Line 8 makes an array of pointers that point to integers
+2. *(arr+i)
+3. *(*(arr+i)+j)
+4. We have to pass the array because we don't know its size. 
+

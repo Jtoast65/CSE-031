@@ -1,0 +1,12 @@
+Assignment 1
+1.Line 22 caused the segmentation fault. The line reads scanf("%d", input).  
+The address is supposed to pass the addrress but there is no address to be passed.
+2. To fix it to work properly you change the sum integer to a pointer, this creates an address
+that can be passed and dereferenced.
+3. The value of the sum variable wasn't being dereffernced so the value could no update.
+4. To fix it you dereference the pointer and pass the address of the sum.
+Assignment 2
+1. Yes the output is expected.
+2. The output is not exptected. The bug in the program is that the in str2 stays
+and is added to the next string.  The origninal string should be deleted.
+3. The output is ot expected.  I think this happens becuase of the spaces in the string.  The spaces might make it read each word as a new string or only the back half of it.

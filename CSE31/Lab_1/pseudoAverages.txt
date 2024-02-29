@@ -1,0 +1,16 @@
+while "input is not 0"
+    print enter value
+    ask for input
+make an array
+while input is not 0
+    make interger that is equaal to input mod 10
+    put integer in th array
+    divide the input by 10 
+
+make a for loop to loop through the array 
+add each component of the array up 
+store that in an a variable and determine if the variable is either even or odd with mod 2 
+if the thing is even store in even then the even count is plus 1 and if odd odd count plus one
+store the even and odd numbers in an array 
+take the array and add each one up and then take that number and divide it by the count for either even or odd 
+and then print it all out 

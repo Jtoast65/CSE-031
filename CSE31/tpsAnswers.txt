@@ -1,0 +1,9 @@
+tpsAnswers
+TPS 2
+a. yes you can open more than one terminal
+b. to be able to increase your productivity
+2. the file command is ls
+3. the command in cd Desktop
+4. you do this by mkdir CSE31
+
+TPS 3

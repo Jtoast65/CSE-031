@@ -1,0 +1,20 @@
+TPS 1:
+Wilson, Henry, Joey
+1. The three pools of memory are the stack, heap, and static.
+2. 
+A. There are three variables
+B. Two of them are pointers, ptr points to the integer and handle is a pointer that is pointing to a pointer to integers.
+C. Stack 
+D. Ptr is allocated to heap.
+3. Pic 
+4. Pic
+
+TPS 2:
+1. The code defines a structure for a linked list node containing an integer and a float value.
+It also allocates memory for a single node and it initilaizes its values.
+2. value of head is adresss in stack, and the addresses of the rest are in the heap.
+3. The members of the node structure are stored one after the other.
+Head pointer points to the beginning of the block allocated for the Node structre.
+Offset between the address of the structure members corresponds to their respective sizes.
+
+The relationship between the head pointer and its destination, is that head points to the memory location wehre the Node is stored.

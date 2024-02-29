@@ -1,0 +1,22 @@
+TPS 1:
+Henry 
+Joey
+Jackie
+
+TPS 2:
+1. You compile using clang -g file_name.c -o file_name
+2. You load LLDB by typing in lldb ./punishment
+3. you run it by typing in run and then running your program
+4. Is a point that you want to make the program pause.  This is so you can expect or fix a certain part of code.
+You set a breakpoint by using this command: (lldb) breakpoint set --name main
+
+5. use the command next
+6. print and variable name is what is 
+7. use continue and c
+8. type q 
+
+TPS 3:
+1. There is 4 variables and two pointers declared.
+2. X and Y will return nothing and arr[0] will return a garbage value.
+3. You can prevent that by assigning integers to each variable.
+8. Yes the address makes sense because the name of the array points to arr[0].  Arr[0] address and the address of the array are the same.
